@@ -1,5 +1,5 @@
 # medchatbot
-A simple flask based app for use in healthcare.
+A flask based app for use in healthcare.
 
 ## Overview
 
